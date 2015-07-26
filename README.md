@@ -15,3 +15,4 @@ LeetCode
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](./algorithms/LinkedListCycle/LinkedListCycle.py)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](./algorithms/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.py)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](./algorithms/InvertBinaryTree/InvertBinaryTree.py) [C](./algorithms/InvertBinaryTree/InvertBinaryTree.c)|Easy|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[python](./algorithms/PopulatingNextRightPointersinEachNode/PopulatingNextRightPointersinEachNode.py) [C](./algorithms/PopulatingNextRightPointersinEachNode/PopulatingNextRightPointersinEachNode.c)|Medium|
