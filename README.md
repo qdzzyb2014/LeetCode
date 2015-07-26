@@ -13,3 +13,5 @@ LeetCode
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](./algorithms/Numberof1Bits/Numberof1Bits.py)|Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](./algorithms/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.py)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](./algorithms/LinkedListCycle/LinkedListCycle.py)|Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](./algorithms/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.py)|Medium|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](./algorithms/InvertBinaryTree/InvertBinaryTree.py) [C](./algorithms/InvertBinaryTree/InvertBinaryTree.c)|Easy|
