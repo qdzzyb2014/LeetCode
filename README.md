@@ -26,4 +26,4 @@ LeetCode
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python](./algorithms/ImplementQueueusingStacks/ImplementQueueusingStacks.py)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](./algorithms/ConvertSortedArraytoBinarySearchTree/ConvertSortedArraytoBinarySearchTree.py)\\[C](./algorithms/ConvertSortedArraytoBinarySearchTree/ConvertSortedArraytoBinarySearchTree.c)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/BestTimetoBuyandSellStock/BestTimetoBuyandSellStock.py)|Medium|
-|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](./algorithms\UniquePaths\UniquePaths.py)|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](./algorithms/UniquePaths/UniquePaths.py)|Medium|
