@@ -28,7 +28,7 @@ LeetCode
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/BestTimetoBuyandSellStock/BestTimetoBuyandSellStock.py)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](./algorithms/UniquePaths/UniquePaths.py)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](./algorithms/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.py)|Hard|
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./algorithems/ReverseLinkedList/ReverseLinkedList.py)|Easy|
-|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](./algorithems/SortColors/SortColors.py)|Medium|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](./algorithems/MergeTwoSortedLists/MergeTwoSortedLists.py)\\[C](./algorithems/MergeTwoSortedLists/MergeTwoSortedLists.c)|Easy|
-||[]()|[Python](./algorithems/)||
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./algorithms/ReverseLinkedList/ReverseLinkedList.py)|Easy|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](./algorithms/SortColors/SortColors.py)|Medium|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](./algorithms/MergeTwoSortedLists/MergeTwoSortedLists.py)\\[C](./algorithms/MergeTwoSortedLists/MergeTwoSortedLists.c)|Easy|
+||[]()|[]()||
