@@ -31,4 +31,10 @@ LeetCode
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./algorithms/ReverseLinkedList/ReverseLinkedList.py)|Easy|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](./algorithms/SortColors/SortColors.py)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](./algorithms/MergeTwoSortedLists/MergeTwoSortedLists.py)\\[C](./algorithms/MergeTwoSortedLists/MergeTwoSortedLists.c)|Easy|
-||[]()|[]()||
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](./algorithms/MinimumPathSum/MinimumPathSum.py)|Medium|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](./algorithms/SwapNodesinPairs/SwapNodesinPairs.py)|Medium|
+|154|[FindMinimuminRotatedSortedArrayII](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Python](./algorithms/FindMinimuminRotatedSortedArrayII/FindMinimuminRotatedSortedArrayII.py)|Hard|
+|202|[Happy NumberHappyNumber](https://leetcode.com/problems/happy-number/)|[Python](./algorithms/HappyNumber/HappyNumber.py)|Easy|
+|162|[Find Peak Element]()|[Python](./algorithms/FindPeakElement/FindPeakElement.py)|Medium|
+||[]()|[Python](./algorithms/)||
+||[]()|[Python](./algorithms/)||
