@@ -36,5 +36,9 @@ LeetCode
 |154|[FindMinimuminRotatedSortedArrayII](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Python](./algorithms/FindMinimuminRotatedSortedArrayII/FindMinimuminRotatedSortedArrayII.py)|Hard|
 |202|[Happy NumberHappyNumber](https://leetcode.com/problems/happy-number/)|[Python](./algorithms/HappyNumber/HappyNumber.py)|Easy|
 |162|[Find Peak Element]()|[Python](./algorithms/FindPeakElement/FindPeakElement.py)|Medium|
+|283|[Move Zeroes]()|[Python](./algorithms/MoveZeroes/MoveZeroes.py)||
+||[]()|[Python](./algorithms/)||
+||[]()|[Python](./algorithms/)||
+||[]()|[Python](./algorithms/)||
 ||[]()|[Python](./algorithms/)||
 ||[]()|[Python](./algorithms/)||
