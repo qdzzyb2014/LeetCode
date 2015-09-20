@@ -35,10 +35,10 @@ LeetCode
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](./algorithms/SwapNodesinPairs/SwapNodesinPairs.py)|Medium|
 |154|[FindMinimuminRotatedSortedArrayII](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Python](./algorithms/FindMinimuminRotatedSortedArrayII/FindMinimuminRotatedSortedArrayII.py)|Hard|
 |202|[Happy NumberHappyNumber](https://leetcode.com/problems/happy-number/)|[Python](./algorithms/HappyNumber/HappyNumber.py)|Easy|
-|162|[Find Peak Element]()|[Python](./algorithms/FindPeakElement/FindPeakElement.py)|Medium|
-|283|[Move Zeroes]()|[Python](./algorithms/MoveZeroes/MoveZeroes.py)||
-||[]()|[Python](./algorithms/)||
-||[]()|[Python](./algorithms/)||
-||[]()|[Python](./algorithms/)||
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](./algorithms/FindPeakElement/FindPeakElement.py)|Medium|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](./algorithms/MoveZeroes/MoveZeroes.py)|Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Python](./algorithms/BalancedBinaryTree/BalancedBinaryTree.py)|Easy|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](./algorithms/ContainerWithMostWater/ContainerWithMostWater.py)|Medium|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](./algorithms/SymmetricTree/SymmetricTree.py)|Easy|
 ||[]()|[Python](./algorithms/)||
 ||[]()|[Python](./algorithms/)||
