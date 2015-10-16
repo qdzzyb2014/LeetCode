@@ -40,5 +40,11 @@ LeetCode
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Python](./algorithms/BalancedBinaryTree/BalancedBinaryTree.py)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](./algorithms/ContainerWithMostWater/ContainerWithMostWater.py)|Medium|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](./algorithms/SymmetricTree/SymmetricTree.py)|Easy|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](./algorithms/RotateImage/RotateImage.py)|Medium|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](./algorithms/Searcha2DMatrix/Searcha2DMatrix.py)|Medium|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](./algorithms/RemoveElement/RemoveElement.py)\\[C](./algorithms/RemoveElement/RemoveElement.c)Easy|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Python](./algorithms/PowerofTwo/PowerofTwo.py)|Easy|
+|107|[Binary Tree Level Order Traversal II]()|[Python](./algorithms/BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.py)||
 ||[]()|[Python](./algorithms/)||
 ||[]()|[Python](./algorithms/)||
+
