@@ -45,6 +45,9 @@ LeetCode
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](./algorithms/RemoveElement/RemoveElement.py)\\[C](./algorithms/RemoveElement/RemoveElement.c)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Python](./algorithms/PowerofTwo/PowerofTwo.py)|Easy|
 |107|[Binary Tree Level Order Traversal II]()|[Python](./algorithms/BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.py)||
+|292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Python](./algorithms/NimGame/NimGame.py)|Easy|
+|289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[Python](./algorithms/GameofLife/GameofLife.py)|Medium|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](./algorithms/MissingNumber/MissingNumber.py)|Medium|
 ||[]()|[Python](./algorithms/)||
 ||[]()|[Python](./algorithms/)||
 
