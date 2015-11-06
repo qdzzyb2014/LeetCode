@@ -21,14 +21,11 @@ class Problem(object):
         'Cache-Contro': 'max-age=0'
         }
         self.r = requests.get(self.url, headers=self.headers)
+        if 'qdzzyb2014' not in self.r.text:
+            raise Exception('log in Failure. Please change cookies')
         self.basedir = os.path.abspath(os.path.dirname(__file__))
         # self.unreview = self.main()
 
-    def main():
-        ac = self.find_done()
-        marked = finished_list()
-        res = [i for i in ac if i not in marked]
-        return res
 
     def _find_done(self):
         soup = BeautifulSoup(self.r.text, 'html.parser')
@@ -72,10 +69,16 @@ class Problem(object):
                     os.mkdir(path)
                     open(os.path.join(path, ac[i]+'.py'), 'w')
                     print path
-                
+                    
+    def unfinished_list(self):
+        ac = self.aclist_to_dic()
+        finished = self.finished_list()
+        print len(ac)
+        print len(finished)
+        return [i for i in ac if i not in finished]
 
     
 
 p = Problem('algorithms')
-p.mk_dir()
+print p.unfinished_list()
         

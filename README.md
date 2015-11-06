@@ -48,6 +48,8 @@ LeetCode
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Python](./algorithms/NimGame/NimGame.py)|Easy|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[Python](./algorithms/GameofLife/GameofLife.py)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](./algorithms/MissingNumber/MissingNumber.py)|Medium|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Python](./algorithms/UglyNumber/UglyNumber.py)|Easy|
+|260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[Python](./algorithms/SingleNumberIII/SingleNumberIII.py)||
 ||[]()|[Python](./algorithms/)||
 ||[]()|[Python](./algorithms/)||
 

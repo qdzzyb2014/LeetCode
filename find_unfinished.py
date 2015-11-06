@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 def get_reponse():
     url = 'https://leetcode.com/problemset/algorithms/'
-    cookie = '_ga=GA1.2.318572932.1444183786; csrftoken=k9icuHvRoq72kOzOP5rDkHaFV4bXnBln; PHPSESSID=9a9xsoscuaz3o5x1yq6bh6q95g6ajq00; __atuvc=23%7C40%2C63%7C41%2C42%7C42%2C18%7C43; _gat=1'
+    cookie = '_ga=GA1.2.318572932.1444183786; csrftoken=rXxVzda5TyfeZ4oMzt6BgNBoGFHXSMjA; __atuvc=23%7C40%2C63%7C41%2C42%7C42%2C18%7C43%2C18%7C44; PHPSESSID=8d0wz0zj4xcll33td0697h02wkz0ucwr; __atuvs=563ca2cffcf391cc000; _gat=1'
     headers = {
     'Host': 'leetcode.com',
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0',
@@ -16,8 +16,9 @@ def get_reponse():
     'Connection': 'keep-alive',
     'Cache-Contro': 'max-age=0'
     }
-
+    print 'Geting ac problems.'
     r = requests.get(url, headers=headers)
+    print 'status code: '+str(r.status_code)+'.'
     return r.text
 
 def find_done(text):
